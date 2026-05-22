@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Shield Lock representation -->
+    <!-- Base outer circle ring -->
+    <path
+        android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54 C82,38.54 69.46,26 54,26 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#A8C7FA"
+        android:fillColor="#00000000"/>
+    <!-- Lock body inside -->
+    <path
+        android:pathData="M54,40 C49.03,40 45,44.03 45,49 L45,56 C45,56.5 44.5,57 44,57 L44,68 C44,69.1 44.9,70 46,70 L62,70 C63.1,70 64,69.1 64,68 L64,57 C63.5,57 63,56.5 63,56 L63,49 C63,44.03 58.97,40 54,40 Z M54,44 C56.76,44 59,46.24 59,49 L59,56 L49,56 L49,49 C49,46.24 51.24,44 54,44 Z"
+        android:fillColor="#D6E2FF"/>
+    <!-- Dynamic glowing orb bubble inside the lock center -->
+    <path
+        android:pathData="M54,61 C55.66,61 57,59.66 57,58 C57,56.34 55.66,55 54,55 C52.34,55 51,56.34 51,58 C51,59.66 52.34,61 54,61 Z"
+        android:fillColor="#A8C7FA"/>
+</vector>

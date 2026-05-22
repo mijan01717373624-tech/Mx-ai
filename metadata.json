@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MX AI",
+  "description": "Smart security assistant and productivity companion. Siri-style on-device command control, encrypted SQLite database, biometric locks, and protected personal email updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
